@@ -1,0 +1,1 @@
+[{"Título": ["Sociology and the Climate Crisis"], "Tipo de publicação": ["JOUR"], "Autores": [{"Apelido": "Araos", "Nome próprio": "Malcolm"}, {"Apelido": "Koslov", "Nome próprio": "Liz"}], "Ano": ["2020"], "Local de publicação": ["Annual Review of Sociology"], "Número de páginas": ["20"], "DOI": ["10.1146/annurev-soc-121919-054750"], "Palavras-chave": []}]
